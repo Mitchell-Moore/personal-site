@@ -10,7 +10,7 @@ const About = () => {
       </div>
 
       <div className="text-[#8892b0] text-2xl font-semibold mb-2">
-        I’m a software engineer currently at a health care startup. I’m
+        I’m a software engineer currently working at a health care startup. I’m
         passionate about startups, building products that have impact, and ping
         pong.
       </div>
